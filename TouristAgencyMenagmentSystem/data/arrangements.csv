@@ -1,0 +1,9 @@
+Price,Insurance,Group,departureDate, arravalDate,mealIncluded,departureAdress,numberAdress,departureCity,arrivalAdress,arrivalNumber,arrivalCity,transportClass,roomSize,beds,boardType,hotelAdress, hotelNum,city,hotelStars
+800.0,true,true,2021-04-30T14:00,2021-05-15T14:00,true,Aerodrom Beograd 59,1,Belgrade,Avinguda Diagonal,6,Barselona,BUSINESS_CLASS,25.0,1,ALL_INCLUSIVE,Avinguda Diagonal,6,Barselona,5
+400.0,true,true,2021-05-30T14:00,2021-06-10T14:00,false,Bulevar Oslobodjenja,1,Novi Sad,Avinguda Diagonal,6,Barselona,SECOND_CLASS,30.0,1,FULL_BOARD,Avinguda Diagonal,6,Barselona,4
+600.0,true,true,2021-05-30T14:00,2021-06-10T14:00,true,Aerodrom Beograd 59,1,Belgrade,Calle da Acala,6,Madrid,ECONOMY_CLASS,25.0,1,HALF_BOARD,Calle da Acala,6,Madrid,5
+800.0,true,true,2021-05-30T14:00,2021-06-10T14:00,false,Bulevar Oslobodjenja,1,Novi Sad,Calle da Acala,6,Madrid,SLEEP_CAR,40.0,1,ALL_INCLUSIVE,Calle da Acala,6,Madrid,4
+500.0,true,true,2021-05-30T14:00,2021-06-10T14:00,false,Bulevar Oslobodjenja,1,Novi Sad,Avinguda Diagonal,6,Barselona,SECOND_CLASS,45.0,3,BED,Avinguda Diagonal,6,Barselona,5
+700.0,true,true,2021-05-30T14:00,2021-06-10T14:00,false,Bulevar Oslobodjenja,1,Novi Sad,Avinguda Diagonal,6,Barselona,SECOND_CLASS,25.0,1,BED,Avinguda Diagonal,6,Barselona,5
+550.0,true,true,2021-05-30T14:00,2021-06-10T14:00,true,Aerodrom Beograd 59,1,Belgrade,Calle da Acala,6,Madrid,ECONOMY_CLASS,30.0,1,BED,Calle da Acala,6,Madrid,3
+400.0,false,false,2021-05-30T14:00,2021-06-10T14:00,false,Bulevar Oslobodjenja,1,Novi Sad,Calle da Acala,6,Madrid,SLEEP_CAR,45.0,2,BED,Calle da Acala,6,Madrid,2
