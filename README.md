@@ -1,2 +1,2 @@
-# TouristMenagmentSystem
-Tourist Menagment System/Java
+# TouristManagementSystem
+Tourist Management System/Java
